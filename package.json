@@ -1,0 +1,22 @@
+{
+  "name": "valentine-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namthit98/valentine-2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namthit98/valentine-2020/issues"
+  },
+  "homepage": "https://github.com/namthit98/valentine-2020",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
